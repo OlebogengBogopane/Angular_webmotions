@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "@angular/cli": "^17.1.1"
+    "-": "^0.0.1",
+    "@angular/cli": "^17.1.2",
+    "@angular/core": "^17.1.2",
+    "@angular/router": "^17.1.1",
+    "g": "^2.0.1"
   }
 }
